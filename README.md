@@ -1,7 +1,7 @@
 # Loadstring
 
 ```lua
-local id = ""
+local id = "100017578736369"
 local guiCode = game:HttpGet("https://www.roblox.com/asset/?id=" .. id)
 loadstring(guiCode)()
 ```
